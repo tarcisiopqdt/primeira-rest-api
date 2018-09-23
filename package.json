@@ -1,0 +1,19 @@
+{
+  "name": "rest-api-portfolio",
+  "version": "1.0.0",
+  "description": "",
+  "main": "api.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Paulo Tarcisio",
+  "license": "ISC",
+  "devDependencies": {
+    "body-parser": "^1.18.3",
+    "cors": "^2.8.4",
+    "express": "^4.16.3"
+  },
+  "dependencies": {
+    "mysql": "^2.16.0"
+  }
+}
